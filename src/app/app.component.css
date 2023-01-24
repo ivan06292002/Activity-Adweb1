@@ -1,0 +1,16 @@
+p {
+  font-family: Lato;
+
+  word-spacing: 2px;
+}
+
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
+h2 {
+  color: blue;
+  text-align: center;
+}
